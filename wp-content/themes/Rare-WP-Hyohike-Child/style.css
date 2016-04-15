@@ -1,0 +1,21 @@
+/* 
+ Theme Name:   Rare-WP Hyohike Child
+ Theme URI:    
+ Description:  Child Theme for Rare-WP
+ Author:       Hyohike
+ Author URI:   
+ Template:     rare-wp
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+ /* == Add your own styles below this line ==
+--------------------------------------------*/
+
+.dateText{
+visibility:hidden;
+}
+
+div#infinite-handle, .radio input:focus + .outer .inner, .radio .inner, input.cmn-toggle-round-flat:checked + label:after, .blue, .left_nav, .right_nav, .block-grid:hover .gradient2, span.sticky, .buttons button, #boxclose span.dashicons, #top_logo, #top_logo .gradient2, input.button[type="submit"], input.submit[type="submit"], input.pushbutton-wide, .footer_nav, .pagination, .page-numbers {
+    background-color: #F32121;
+}
